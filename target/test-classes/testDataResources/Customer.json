@@ -1,0 +1,20 @@
+[
+{
+	"firstName" : "Sangram",
+	"lastName"  : "Kumar",
+	"email"		: "Sangram@gmail.com",
+	"confirmEmail"	: "Sangram@gmail.com",
+	"mobile"	: "1234554321",
+	"address"	: "Mumbai",
+	"additionalNotes"	: "Very Smart"
+},
+{
+	"firstName" : "Shah",
+	"lastName"  : "Shuja",
+	"email"		: "Shuja@gmail.com",
+	"confirmEmail"	: "Shuja@gmail.com",
+	"mobile"	: "7890612345",
+	"address"	: "Indore",
+	"additionalNotes"	: "Not Good"
+}
+]
